@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://opdasato.github.io/post/hugo-hello/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <loc>http://opdasato.github.io/post/hugo4/</loc>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://opdasato.github.io/post/hugo3/</loc>
+    <lastmod>2017-09-21T11:57:58+09:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +18,8 @@
   </url>
   
   <url>
-    <loc>http://opdasato.github.io/post/hugo3/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://opdasato.github.io/post/hugo4/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <loc>http://opdasato.github.io/post/hugo-hello/</loc>
+    <lastmod>2017-09-19T11:57:58+09:00</lastmod>
   </url>
   
   <url>
@@ -33,31 +33,31 @@
   
   <url>
     <loc>http://opdasato.github.io/tags/frontend/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://opdasato.github.io/tags/generator/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://opdasato.github.io/categories/hugo/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://opdasato.github.io/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://opdasato.github.io/post/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,7 +68,7 @@
   
   <url>
     <loc>http://opdasato.github.io/tags/</loc>
-    <lastmod>2017-09-20T11:57:58+09:00</lastmod>
+    <lastmod>2017-09-22T11:57:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
